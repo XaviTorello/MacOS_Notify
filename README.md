@@ -14,7 +14,7 @@ The first argument is the title of the notification, and the second one the cont
 
 ## How it works?
 
-Call notify script with the title and the content of the message:
+Call notify script with the `title` and the `content` of the message:
 
 ```
 notify.sh "title" "text"
